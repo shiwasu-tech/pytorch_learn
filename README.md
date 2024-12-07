@@ -1,6 +1,9 @@
-# 「PyTorch自然言語処理プログラミング」の学習に用いたリポジトリです．
-> 新納浩幸；PyTorch自然言語処理プログラミング，2021，インプレス．
+# PyTorchの学習に用いたリポジトリです．
 
+> 1）新納浩幸；PyTorch自然言語処理プログラミング，2021，インプレス．<br?>
+> 2）小川雄太郎；つくりながら学ぶ！PyTorchによる発展ディープラーニング，2019，マイナビ出版．
+
+# 1）PyTorch自然言語処理プログラミング
 ## コードの概要
 [pytorch_learn_01.ipynb](pytorch_learn_01.ipynb)は１章（pytorchの基本的な使い方，iris判別タスク）<br>
 ２章（word2vec）はほぼ同じ内容をゼロつく２でやっていた上，ライブラリを使うだけの章だったのでパス<br>
@@ -24,3 +27,5 @@
 > ```enja_datasets`` from https://github.com/odashi/small_parallel_enja
 
 
+
+# 2）つくりながら学ぶ！PyTorchによる発展ディープラーニング
