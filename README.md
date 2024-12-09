@@ -24,7 +24,7 @@
 
 > ```datasets``` from https://www.cl.ecei.tohoku.ac.jp/~m-suzuki/jawiki_vector/<br>
 > ```pkls``` from https://book.impress.co.jp/books/1119101184<br>
-> ```enja_datasets`` from https://github.com/odashi/small_parallel_enja
+> ```enja_datasets``` from https://github.com/odashi/small_parallel_enja
 
 
 
